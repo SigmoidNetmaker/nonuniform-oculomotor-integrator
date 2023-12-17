@@ -2,7 +2,7 @@ MATLAB code used for computational analysis of the oculomotor neural integrator 
 
 Anastasio TJ (1998) Nonuniformity in the linear network model of the oculomotor integrator produces approximately fractional-order dynamics and more realistic neuron behavior. Biological Cybernetics. 79:377-391  
 
-The starting point for this analysis is the neural network model of the oculomotor neural integrator originally propposed by Cannon, Robinson, and Shamma:  
+The starting point is the neural network model of the oculomotor neural integrator originally proposed by Cannon, Robinson, and Shamma:  
 
 Cannon SC, Robinson DA, Shamma S (1983) A proposed neural network for the integrator of the oculomotor system. Biological cybernetics. 49:127-136
 
