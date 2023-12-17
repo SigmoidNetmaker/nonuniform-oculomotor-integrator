@@ -6,7 +6,7 @@ The starting point is the neural network model of the oculomotor integrator orig
 
 Cannon SC, Robinson DA, Shamma S (1983) A proposed neural network for the integrator of the oculomotor system. Biological cybernetics. 49:127-136
 
-The Cannon Integrator (for short) works through reciprocal inhibition, and each neuron in the network inhibits its neighbors using the same Gaussian profile. The very simple dynamic behavior of the Cannon Integrator results from the uniformity of these connections. As shown in Anastasio (1998), disruption of this uniformity unleashes the dynamic richness of the network and results in model neurons having much more realistic behavior. The mfiles in this repository construct the Cannon Integrator and analyze it using impulse and frequency responses and using eigenmode decomposition. Users are invited to disrupt the uniformity of the connectivity matrix (a) in any way they wish.  
+The Cannon Integrator (for short) works through reciprocal inhibition, and each neuron in the network inhibits its neighbors using the same Gaussian profile. The very simple dynamic behavior of the Cannon Integrator results from the uniformity of these connections. As shown in Anastasio (1998), disruption of this uniformity unleashes the dynamic richness of the network and results in model neurons having much more realistic behavior. The mfiles in this repository construct the Cannon Integrator and analyze it using impulse and frequency responses and eigenmode decomposition. Users are invited to disrupt the uniformity of the connectivity matrix (a) in any way they wish.  
 
 The following is a list of the mfiles and what they do:  
 
