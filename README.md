@@ -13,6 +13,8 @@ The following is a list of the mfiles and what they do:
 cansetup.m -- sets up the Cannon Integrator with and without circular boundary conditions  
 (note: the original Cannon-Robinson-Shamma integrator had circular boundary conditions.)  
 
+canbode.m -- makes Bode (mag and phase vs frequency) plots for the Cannon Integrator  
+
 canminrel.m -- finds a "minimal" transfer function starting from the Cannon Integrator  
 (note: also sets up the Cannon Integrator; results are somewhat disappointing)  
 
